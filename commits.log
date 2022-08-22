@@ -1,0 +1,104 @@
+commit 49fb27cb025b659f8c0694a0df0ec4082ed3ac37
+Author: diegoxxd <noirest18@gmail.com>
+Date:   Mon Aug 22 12:21:00 2022 -0500
+
+    Agregando 2 párrafos
+
+commit a1b32e9fce75cd4e034907ab34e06275a39f994d
+Merge: 7e7400c d8166a7
+Author: diegoxxd <noirest18@gmail.com>
+Date:   Mon Aug 22 12:18:35 2022 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 7e7400c6ad04db5a06656b40e1114ddc5b06fe39
+Author: diegoxxd <noirest18@gmail.com>
+Date:   Mon Aug 22 12:01:38 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit d8166a7ef428360dd04fdd3e5f9d4f2c67835447
+Author: diegoxxd <noirest18@gmail.com>
+Date:   Mon Aug 22 12:01:38 2022 -0500
+
+    Agregando las estaciones del año
+
+commit 26118e2a6b8b0d9f0b7af6ac8684c3976243e7a1
+Merge: e0686e2 587448c
+Author: diegoxxd <noirest18@gmail.com>
+Date:   Mon Aug 22 11:23:12 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 587448c3cb941fa693a1a9c7cb761adc32ef9d0b
+Author: diegoxxd <noirest18@gmail.com>
+Date:   Mon Aug 22 10:58:57 2022 -0500
+
+    Agregando index.js al index.html
+
+commit e0686e25b523999d693d91f4a6611bd695a8ddbb
+Author: diegoxxd <noirest18@gmail.com>
+Date:   Mon Aug 22 10:55:20 2022 -0500
+
+    Agregando style.css al index.html
+
+commit 19e9b3f538c6ed98efc09e957c2bf04669e2e1d4
+Merge: 6056638 7234285
+Author: diegoxxd <noirest18@gmail.com>
+Date:   Mon Aug 22 10:42:22 2022 -0500
+
+    Merge branch 'js'
+
+commit 72342856e13757e0f89126ff62e3a95ac6ffadf7
+Author: diegoxxd <noirest18@gmail.com>
+Date:   Mon Aug 22 10:35:22 2022 -0500
+
+    Creando index.js
+
+commit 6056638df74032568810db6d331daa56bb0eb7f4
+Author: diegoxxd <noirest18@gmail.com>
+Date:   Mon Aug 22 10:28:40 2022 -0500
+
+    Creando style.css
+
+commit d81baa264c197382a6e531fe7caecd479a247220
+Author: diegoxxd <noirest18@gmail.com>
+Date:   Mon Aug 22 10:23:34 2022 -0500
+
+    Creando index html.
+
+commit acd9041c77da8bc123395a6c87a6a9fe00180cff
+Author: diegoxxd <noirest18@gmail.com>
+Date:   Sun Aug 21 20:34:27 2022 -0500
+
+    Agredando mas contenido al README
+
+commit 67d5fbd63c4e40db3b5c95fe00a2af84ac7a23eb
+Author: diegoxxd <noirest18@gmail.com>
+Date:   Sun Aug 21 20:31:03 2022 -0500
+
+    Ignorando archivos .exe
+
+commit 6f0d7ec7869f0824f700237695c9575e99ec046f
+Author: Diego <100863448+diegoxxd@users.noreply.github.com>
+Date:   Sun Aug 21 17:04:31 2022 -0500
+
+    Creando licencia del repositorio
+
+commit 0cfe2d3597164472affa4d5b7bca5de8f00edfbc
+Author: diegoxxd <noirest18@gmail.com>
+Date:   Sun Aug 21 16:58:14 2022 -0500
+
+    Agregando más contenido al README
+
+commit f4985262cf8a67bd3f59cdd925562046c995ffe7
+Author: diegoxxd <noirest18@gmail.com>
+Date:   Sun Aug 21 16:26:19 2022 -0500
+
+    Agregando contenido inicial al README
+
+commit 50ef02650f765fb1bf1552233bae9b70864c2e3a
+Author: diegoxxd <noirest18@gmail.com>
+Date:   Sun Aug 21 15:50:09 2022 -0500
+
+    Primero commit 😀
